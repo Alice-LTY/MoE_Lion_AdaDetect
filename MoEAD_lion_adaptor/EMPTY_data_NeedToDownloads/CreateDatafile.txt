@@ -1,0 +1,9 @@
+
+    MVTec-AD
+
+Download the MVTec-AD dataset from here. Unzip the file and move them to ./data/MVTec-AD. The MVTec-AD dataset directory should be as follows.
+
+
+    VisA
+
+Download the VisA dataset from here. Follow the instruction in the link. After the part of data preparation in the instruction, move them to ./data/VisA_pytorch. The VisA dataset directory should be as follows.
