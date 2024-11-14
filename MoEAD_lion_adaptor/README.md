@@ -103,5 +103,4 @@ We thank for these great repositories including [UniAD](https://github.com/zhiyu
 
 
 ## Citation
-
-If you find this paper and repository useful, please cite our paper.
+This repository is an adaptation of the original code available at [TheStarOfMSY/MoEAD](https://github.com/TheStarOfMSY/MoEAD/tree/main). It includes modifications aimed at improving anomaly detection by implementing a more efficient mixture of experts model with shared learning architecture. 
