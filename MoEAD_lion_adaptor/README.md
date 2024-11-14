@@ -20,7 +20,7 @@ obtains competitive detection performance.
 
 
 
-## How to run
+## How to run (尚缺：fastmoe and data files，請依照以下步驟完整程式碼)
 
 ### 1. Installation
 
@@ -40,7 +40,7 @@ python setup.py install
 
 
 
-### 2. Dataset
+### 2. Create Data file
 
 - MVTec-AD
 
