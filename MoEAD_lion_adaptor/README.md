@@ -99,8 +99,3 @@ Results and Checkpoints:
 ## Acknowledgement
 
 We thank for these great repositories including [UniAD](https://github.com/zhiyuanyou/UniAD) and [fastmoe](https://github.com/laekov/fastmoe) for assistance in our work.
-
-
-
-## Citation
-This repository is an adaptation of the original code available at [TheStarOfMSY/MoEAD](https://github.com/TheStarOfMSY/MoEAD/tree/main). It includes modifications aimed at improving anomaly detection by implementing a more efficient mixture of experts model with shared learning architecture. 
