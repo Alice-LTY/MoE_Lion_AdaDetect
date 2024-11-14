@@ -1,1 +1,1 @@
-This repository is an adaptation of the original code available at TheStarOfMSY/MoEAD. It includes modifications aimed at improving anomaly detection by implementing a more efficient mixture of experts model with shared learning architecture.
+This repository is an adaptation of the original code available at [TheStarOfMSY/MoEAD](https://github.com/TheStarOfMSY/MoEAD/tree/main). It includes modifications aimed at improving anomaly detection by implementing a more efficient mixture of experts model with shared learning architecture. 
