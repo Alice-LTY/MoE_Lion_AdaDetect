@@ -1,0 +1,195 @@
+<!-- Auto-generated directory index; do not edit -->
+<!-- Generated on Fri Oct 25 08:42:51 PM UTC 2024 -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Index of /compute/cuda/repos</title>
+  <link rel='stylesheet' type='text/css'
+        href='../../../style/directory_listing.css' />
+</head>
+<body>
+  <h1>Index of /compute/cuda/repos</h1>
+  <ul class='directorycontents'>
+    <li>
+      <span class='dir'><a href='..'>..</a></span>
+    </li>
+    <li>
+      <span class='file'><a href='GPGKEY'>GPGKEY</a></span>
+      <span class='size'>4.0KB</span>
+      <span class='date'>2014-05-09 01:12</span>
+    </li>
+    <li>
+      <span class='dir'><a href='amzn2023/'>amzn2023/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='cm2/'>cm2/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='debian10/'>debian10/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='debian11/'>debian11/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='debian12/'>debian12/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora18/'>fedora18/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora19/'>fedora19/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora20/'>fedora20/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora21/'>fedora21/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora23/'>fedora23/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora25/'>fedora25/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora27/'>fedora27/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora29/'>fedora29/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora32/'>fedora32/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora33/'>fedora33/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora34/'>fedora34/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora35/'>fedora35/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora36/'>fedora36/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora37/'>fedora37/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='fedora39/'>fedora39/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='kylin10/'>kylin10/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse15/'>opensuse15/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse122/'>opensuse122/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse123/'>opensuse123/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse131/'>opensuse131/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse132/'>opensuse132/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse422/'>opensuse422/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='opensuse423/'>opensuse423/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='rhel6/'>rhel6/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='rhel7/'>rhel7/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='rhel8/'>rhel8/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='rhel9/'>rhel9/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='runfile/'>runfile/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles11/'>sles11/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles12/'>sles12/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles15/'>sles15/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles113/'>sles113/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles114/'>sles114/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles122/'>sles122/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles123/'>sles123/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='sles124/'>sles124/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1204/'>ubuntu1204/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1210/'>ubuntu1210/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1304/'>ubuntu1304/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1404/'>ubuntu1404/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1410/'>ubuntu1410/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1504/'>ubuntu1504/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1604/'>ubuntu1604/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1704/'>ubuntu1704/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1710/'>ubuntu1710/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1804/'>ubuntu1804/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu1810/'>ubuntu1810/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu2004/'>ubuntu2004/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu2204/'>ubuntu2204/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='ubuntu2404/'>ubuntu2404/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='windows/'>windows/</a></span>
+    </li>
+    <li>
+      <span class='dir'><a href='wsl-ubuntu/'>wsl-ubuntu/</a></span>
+    </li>
+  </ul>
+</body>
+</html>
