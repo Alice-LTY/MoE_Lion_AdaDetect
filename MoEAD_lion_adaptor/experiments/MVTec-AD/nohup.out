@@ -1,0 +1,121 @@
+/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py:208: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  main()
+Traceback (most recent call last):
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 676, in determine_local_world_size
+    return int(nproc_per_node)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 208, in <module>
+    main()
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/typing_extensions.py", line 2853, in wrapper
+    return arg(*args, **kwargs)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 204, in main
+    launch(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 189, in launch
+    run(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 891, in run
+    config, cmd, cmd_args = config_from_args(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 776, in config_from_args
+    nproc_per_node = determine_local_world_size(args.nproc_per_node)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 703, in determine_local_world_size
+    raise ValueError(f"Unsupported nproc_per_node value: {nproc_per_node}") from e
+ValueError: Unsupported nproc_per_node value: 
+/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py:208: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  main()
+Traceback (most recent call last):
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 676, in determine_local_world_size
+    return int(nproc_per_node)
+ValueError: invalid literal for int() with base 10: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 208, in <module>
+    main()
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/typing_extensions.py", line 2853, in wrapper
+    return arg(*args, **kwargs)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 204, in main
+    launch(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 189, in launch
+    run(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 891, in run
+    config, cmd, cmd_args = config_from_args(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 776, in config_from_args
+    nproc_per_node = determine_local_world_size(args.nproc_per_node)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 703, in determine_local_world_size
+    raise ValueError(f"Unsupported nproc_per_node value: {nproc_per_node}") from e
+ValueError: Unsupported nproc_per_node value: 
+/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/_distutils_hack/__init__.py:54: UserWarning: Reliance on distutils from stdlib is deprecated. Users must rely on setuptools to provide the distutils module. Avoid importing distutils or import setuptools first, and avoid setting SETUPTOOLS_USE_DISTUTILS=stdlib. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+usage: train_val.py [-h] [--config CONFIG] [-e] [--local_rank LOCAL_RANK]
+train_val.py: error: unrecognized arguments: --local-rank=0
+/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py:208: FutureWarning: The module torch.distributed.launch is deprecated
+and will be removed in future. Use torchrun.
+Note that --use-env is set by default in torchrun.
+If your script expects `--local-rank` argument to be set, please
+change it to read from `os.environ['LOCAL_RANK']` instead. See 
+https://pytorch.org/docs/stable/distributed.html#launch-utility for 
+further instructions
+
+  main()
+E1029 06:29:54.157241 139642401183552 torch/distributed/elastic/multiprocessing/api.py:833] failed (exitcode: 2) local_rank: 0 (pid: 4020389) of binary: /mnt/disk1/yang/miniconda3/envs/moead/bin/python
+Traceback (most recent call last):
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 194, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 208, in <module>
+    main()
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/typing_extensions.py", line 2853, in wrapper
+    return arg(*args, **kwargs)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 204, in main
+    launch(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launch.py", line 189, in launch
+    run(args)
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/run.py", line 892, in run
+    elastic_launch(
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launcher/api.py", line 133, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+  File "/mnt/disk1/yang/miniconda3/envs/moead/lib/python3.8/site-packages/torch/distributed/launcher/api.py", line 264, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+../../tools/train_val.py FAILED
+------------------------------------------------------------
+Failures:
+  <NO_OTHER_FAILURES>
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2024-10-29_06:29:54
+  host      : a6000yang2-7b8f55ddcd-h7nhq
+  rank      : 0 (local_rank: 0)
+  exitcode  : 2 (pid: 4020389)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
